@@ -1,0 +1,26 @@
+@page "/header"
+@using MatBlazor
+@inherits  FullHeaderBase
+
+<div class="HeaderLogo" style="padding-top:5px">
+    <a class="HeaderLogo" href="/">StockDashboard</a>
+</div>
+<div class="HeaderSearchBox">
+
+    <input style="min-width:200px;width:50%;"  @bind-value="@ticker" type="text" class="HeaderInput" placeholder="Stock" onkeyup="@KeyWasPressed" />
+    <MatButton onclick="@SearchGo">GO</MatButton>
+</div>
+<div class="HeaderBtnContainer">
+    <div class="HeaderBtn" style="padding-top:5px">
+        <MatButton onclick="@NavigateHome">Home</MatButton>
+
+    </div>
+    <div class="HeaderBtn" style="padding-top:5px">
+        <a class="HeaderNavBtn">App</a>
+    </div>
+    <div class="HeaderBtn" style="padding-top:5px">
+        <a class="HeaderNavBtn">About</a>
+    </div>
+</div>
+
+

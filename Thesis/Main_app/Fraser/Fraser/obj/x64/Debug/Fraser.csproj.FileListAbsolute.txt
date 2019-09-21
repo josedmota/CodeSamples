@@ -1,0 +1,16 @@
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\x64\Debug\Fraser.exe.config
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Interop.RobotOM.dll
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.csproj.ResolveComReference.cache
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\x64\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\x64\Debug\Fraser.pdb
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.Form1.resources
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.Properties.Resources.resources
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.csproj.GenerateResource.Cache
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\x64\Debug\Fraser.pdb
+D:\Tese\Main_app\Fraser\Fraser\bin\x64\Debug\Fraser.exe.config
+D:\Tese\Main_app\Fraser\Fraser\obj\x64\Debug\Interop.RobotOM.dll
+D:\Tese\Main_app\Fraser\Fraser\obj\x64\Debug\Fraser.csproj.ResolveComReference.cache
+D:\Tese\Main_app\Fraser\Fraser\obj\x64\Debug\Fraser.exe
+D:\Tese\Main_app\Fraser\Fraser\obj\x64\Debug\Fraser.pdb

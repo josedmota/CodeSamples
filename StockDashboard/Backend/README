@@ -1,0 +1,11 @@
+Instructions on the workflow:
+1- Initial development of logic and integration with IEX cloud API is done on "Source"
+folder
+
+2- Then when the logic is fixed it is wraped in a flask app and an initial refactoring
+is done to transform the logic into a REST api. (it is faster to test using flask).
+This is done in the folder "Completed functions - In Testing".
+
+3- The final integration with Azure cloud functions is done in the "Azure Functions" folder
+this is where the final version of the function (the one uploaded to Azure) is developed
+and stored.

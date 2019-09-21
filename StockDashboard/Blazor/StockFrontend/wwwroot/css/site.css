@@ -1,0 +1,115 @@
+﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+app {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/*
+    #
+    #
+    Header Stuff
+    #
+    #
+*/
+
+/*stacked header if no space for all the elements in 1 row*/
+.HeaderContainer {
+    background-color: #2bd5a2;
+    display: flex;
+    flex-direction: column;
+    min-height: 40px;
+    padding:5px;
+}
+
+/*If it has space to fill all the header items in the same row*/
+@media (min-width:900px){
+    .HeaderContainer {
+        background-color: #2bd5a2;
+        min-height: 40px;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 1%;
+    } 
+}
+
+.HeaderLogo {
+    min-width:300px;
+    max-width:100%;
+    height:100%;
+    text-align:center;
+    padding:5px;
+}
+
+.HeaderSearchBox {
+    min-width: 300px;
+    max-width: 100%;
+    height: 100%;
+    text-align:center;
+    padding:5px;
+}
+
+.HeaderBtnContainer {
+    display:grid;
+    min-width:300px;
+    grid-template-columns:repeat(3,1fr);
+    text-align:center;
+    width:100%;
+}
+
+.HeaderBtn {
+    grid-column: span 1;
+    width: 100%;
+    height: 100%;
+}
+
+/*Make the input seachbox nice and round*/
+.HeaderInput
+{
+    width: 25%;
+    box-sizing: border-box;
+    border: 2px solid #00ac79;
+    border-radius: 10px;
+    font-size: 16px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+
+/*
+    #
+    #
+    Main Page Card system
+    #
+    #
+*/
+.CardContainer{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:1%;
+    grid-gap:1%;
+}
+
+.AnalysisCard {
+    min-width: 250px;
+    max-width: 100%;
+    max-height: fit-content;
+    align-items: center;
+}
+
+    .AnalysisCard .card-content {
+        padding: 1rem;
+        margin : 0px;   
+        line-height:50%;
+        text-align:left;
+    }

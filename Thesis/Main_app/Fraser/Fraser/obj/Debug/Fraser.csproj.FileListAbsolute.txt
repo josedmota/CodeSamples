@@ -1,0 +1,33 @@
+D:\Tese\Main_app\Fraser\Fraser\bin\Debug\Fraser.exe.config
+D:\Tese\Main_app\Fraser\Fraser\bin\Debug\Fraser.exe
+D:\Tese\Main_app\Fraser\Fraser\bin\Debug\Fraser.pdb
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.csprojResolveAssemblyReference.cache
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.Form1.resources
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.Properties.Resources.resources
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.csproj.GenerateResource.Cache
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.exe
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.pdb
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Interop.RobotOM.dll
+D:\Tese\Main_app\Fraser\Fraser\obj\Debug\Fraser.csproj.ResolveComReference.cache
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\Debug\Fraser.exe.config
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Interop.RobotOM.dll
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.csproj.ResolveComReference.cache
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.pdb
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser\Fraser\bin\Debug\Fraser.pdb
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.Form1.resources
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.Properties.Resources.resources
+C:\Users\diogo\Desktop\Fraser\Fraser\obj\Debug\Fraser.csproj.GenerateResource.Cache
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\bin\Debug\Fraser.exe.config
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Interop.RobotOM.dll
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.csproj.ResolveComReference.cache
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.pdb
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\bin\Debug\Fraser.exe
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\bin\Debug\Fraser.pdb
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.Form1.resources
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.Properties.Resources.resources
+C:\Users\diogo\Desktop\Fraser - Copy\Fraser\obj\Debug\Fraser.csproj.GenerateResource.Cache

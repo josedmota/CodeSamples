@@ -1,0 +1,11 @@
+D:\Tese\Main_app\Fraser\Fraser\bin\Release\Fraser.exe.config
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Interop.RobotOM.dll
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.csproj.ResolveComReference.cache
+D:\Tese\Main_app\Fraser\Fraser\bin\Release\Fraser.exe
+D:\Tese\Main_app\Fraser\Fraser\bin\Release\Fraser.pdb
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.Form1.resources
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.Properties.Resources.resources
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.csproj.GenerateResource.Cache
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.exe
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.pdb
+D:\Tese\Main_app\Fraser\Fraser\obj\Release\Fraser.csprojResolveAssemblyReference.cache

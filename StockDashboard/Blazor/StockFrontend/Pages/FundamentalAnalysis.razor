@@ -1,0 +1,33 @@
+@page "/Fundamentals"
+@using StockFrontend.Classes
+
+@inherits FundamentalAnalysisBase
+
+<MatCard class="AnalysisCard">
+    <MatCardContent class="card-content">
+        <h4>Fundamental Analysis</h4>
+
+        <br />
+
+        <p>Share Price: @((SharePrice.Price == null) ? "N/a" : @SharePrice.Price.ToString())</p>
+        <p>Growth Past 3 Months: @((Growth.Growth == null) ? "N/a" : @Growth.Growth.ToString() + "%")</p>
+        <p>Return on Total Assets: @((Ratios.ROTA == null) ? "N/a" : @Ratios.ROTA.ToString() + "%")</p>
+        <p>Return on Equity: @((Ratios.ROE == null) ? "N/a" : @Ratios.ROE.ToString() + "%")</p>
+        <p>Debt To Equity Ratio: @((Ratios.DebtToEquity == null) ? "N/a" : @Ratios.DebtToEquity.ToString() + "%")</p>
+        <p>Current Ratio: @((Ratios.CurrentRatio == null) ? "N/a" : @Ratios.CurrentRatio.ToString() + "%")</p>
+        <p>Graham Share Price: @((Graham.Valuation == null) ? "N/a" : @Graham.Valuation?.ToString("0.##"))</p>
+
+        <br />
+        <MatCardActions>
+
+            <div>
+                <p style="display:inline-block">Assumed Growth Rate:</p>
+                <input style="margin-left:5px;max-width:30px" type="number" @bind="@Graham.gRate" step="0.1" />
+                <br />
+                <Matbutton @onclick="Update">Update</Matbutton>
+            </div>
+
+        </MatCardActions>
+</MatCardContent>
+
+</MatCard>

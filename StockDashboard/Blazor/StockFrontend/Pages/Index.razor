@@ -1,0 +1,15 @@
+﻿@page "/"
+@layout AltLayout
+@inherits IndexBase
+
+<div class="HeaderContainer">
+    <FullHeader @ref="NavBar" OnClick="@NavBarClickEvent"></FullHeader>
+</div>
+
+
+<div class="CardContainer">
+    <FundamentalAnalysis @ref="FundamentalsCard"></FundamentalAnalysis>
+</div>
+
+
+
